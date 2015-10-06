@@ -1,1 +1,13 @@
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\ProjectOrganizer.exe.config
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\ProjectOrganizer.exe
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\ProjectOrganizer.pdb
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\MainWindow.baml
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\MainWindow.g.cs
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\App.g.cs
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer_MarkupCompile.cache
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.g.resources
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.Properties.Resources.resources
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.csproj.GenerateResource.Cache
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.exe
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.pdb
