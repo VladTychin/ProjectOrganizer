@@ -1,7 +1,6 @@
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\ProjectOrganizer.exe.config
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\ProjectOrganizer.exe
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\ProjectOrganizer.pdb
-C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\Devme.MSBuildTasks.dll
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.csprojResolveAssemblyReference.cache
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\MainWindow.baml
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\MainWindow.g.cs
