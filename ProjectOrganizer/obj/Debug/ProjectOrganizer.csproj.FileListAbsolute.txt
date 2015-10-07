@@ -10,3 +10,4 @@ C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\Projec
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.csproj.GenerateResource.Cache
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.exe
 C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\obj\Debug\ProjectOrganizer.pdb
+C:\Users\ty4ka_000\Documents\Visual Studio 2012\Projects\ProjectOrganizer\ProjectOrganizer\bin\Debug\Devme.MSBuildTasks.dll
