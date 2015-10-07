@@ -1,0 +1,11 @@
+﻿using System.Reflection;
+
+[assembly: AssemblyTitle("todo")]
+[assembly: AssemblyDescription("todo")]
+[assembly: AssemblyCompany("todo")]
+[assembly: AssemblyProduct("todo")]
+[assembly: AssemblyCopyright("Copyright © todo")]
+
+[assembly: AssemblyVersion("${major}.${minor}.${path}")]
+[assembly: AssemblyFileVersion("${major}.${minor}.${path}")]
+[assembly: AssemblyInformationalVersionAttribute("${major}.${minor}.${path}-${branch} ${hash|short}")]
